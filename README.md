@@ -10,4 +10,4 @@
 |后台LUA EN文件 | crt_EN_OneTable_Alert |    |创建初始单表弹出EN文件|
 
 ## 添加新增组件功能，快速构建搭建组件代码
-![image](https://github.com/zenkey1083/Images/blob/master/demo.gif)
+![image](https://note.youdao.com/yws/api/personal/file/0A6F256BA493445B8451E1BFCC7C1AC7?method=download&shareKey=a8ff369e1cbd0f72ff332a3baebe7535)
